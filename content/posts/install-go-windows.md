@@ -1,8 +1,9 @@
 +++
 author = "Tom"
-title = "Installing Go in Windows environment"
+title = "Installing Go in Windows"
 date = "2021-07-29"
 description = "Go installation tutorial in Windows environment"
+images = ["gopher_home.jpg",]
 tags = [
     "go",
 ]
