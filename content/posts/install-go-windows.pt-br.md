@@ -80,7 +80,7 @@ Configure a variável de ambiente para GoLang
 
   Crie uma pasta de workspace para os projetos Go.
 
-  {{<figure src="/img/install-go/windows/create_folder_go_workspace.png" width="92%">}} <br>
+  {{<figure src="/img/install-go/windows/create_folder_go_workspace.png">}} <br>
 
 * ##### Gerenciador de variável de ambiente :heavy_check_mark:
 
