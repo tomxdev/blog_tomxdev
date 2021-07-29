@@ -11,13 +11,13 @@ tags = [
 +++
 
 ![gopher](/img/gopher_home.jpg)
-{{<figure src="/img/gopher_home.jpg" width="65%">}}
 
 #### :white_check_mark: Download do arquivo de instalação
 
   Acesse o [Link](https://golang.org/dl/) do site oficial para realiazar o download do arquivo de instalação para GoLang.
 
-  {{<figure src="/img/install-go/windows/download-go.png" width="50%">}}
+![gopher](/img/install-go/windows/download-go.png)
+  <!-- {{<figure src="/img/install-go/windows/download-go.png" width="50%">}} -->
   &nbsp;
 
 
