@@ -35,13 +35,12 @@ tags = [
   &nbsp; 
   {{
     <figure src="/img/install-go/windows/install_accept.png" width="62%">
-    <br>
-    :information_source: *Clique em aceitar o contrato de licença, e em seguida next.
-  }} 
-  *
+    
+  }}
+  :information_source: *Clique em aceitar o contrato de licença, e em seguida next.*
   &nbsp;
   &nbsp;
-  {{<figure src="/img/install-go/windows/install_path.png" width="62%">}} <br>
+  {{<figure src="/img/install-go/windows/install_path.png" width="62%">}}
   *Selecione a pasta de instalação, e em seguida next.*
   &nbsp;
   &nbsp;
