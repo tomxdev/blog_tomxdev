@@ -1,3 +1,13 @@
++++
+author = "Tom"
+title = "Installing Go in Windows environment"
+date = "2021-29-07"
+description = "Go installation tutorial in Windows environment"
+tags = [
+    "go",
+]
++++
+
 #
 
 ## Installing GoLang no Windows 10 :computer:
