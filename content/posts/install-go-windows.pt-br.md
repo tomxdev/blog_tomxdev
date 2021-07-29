@@ -27,8 +27,8 @@ tags = [
   Após o download estar finalizado, clique duas vezes para executar o arquivo e seguir as etapas de instalação.
 
 
-  {{<figure src="/img/install-go/windows/install_next.png" width="62%">}}  &nbsp;
-  :information_source: *Tela de início para a instalação.*
+  {{<figure src="/img/install-go/windows/install_next.png" width="62%">}}
+  :information_source: *Tela de início para a instalação.* \
   &nbsp;
   &nbsp; 
   {{<figure src="/img/install-go/windows/install_accept.png" width="62%">}}
