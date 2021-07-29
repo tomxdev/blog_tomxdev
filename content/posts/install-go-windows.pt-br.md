@@ -36,19 +36,17 @@ tags = [
   &nbsp;
   &nbsp;
   {{<figure src="/img/install-go/windows/install_path.png" width="62%">}}
-  *Selecione a pasta de instalação, e em seguida next.* \
+  :information_source: *Selecione a pasta de instalação, e em seguida next.* \
   &nbsp;
   &nbsp;
   {{<figure src="/img/install-go/windows/install_installer.png" width="62%">}} <br>
   :information_source: *Clique em install para inicializar a instalação, e em seguida next.* \
   &nbsp;
   &nbsp;
-
   {{<figure src="/img/install-go/windows/instal_running.png" width="62%">}} <br>
   :information_source: *Processo de instalação em execução.*\
   &nbsp;
   &nbsp;
-
   {{<figure src="/img/install-go/windows/install_finish.png" width="62%">}} <br>
   :information_source: *Instalação realizada com sucesso, clique em finish para encerrar.* \
   &nbsp;
@@ -64,11 +62,11 @@ tags = [
   
     
 *Na linha de comando digite **go version** para visualizar a versão de Go instalada.*
-```bash
+  ```bash
     $ go version
   ```
 
-  {{<figure src="/content/images/install-go/windows/version.png" width="62%">}} <br>
+  {{<figure src="/inmg/install-go/windows/version.png" width="62%">}} <br>
   *Visualização da versão instalada através da linha de comando.* \
   &nbsp;
 
@@ -82,7 +80,7 @@ Configure a variável de ambiente para GoLang
 
   Crie uma pasta de workspace para os projetos Go.
 
-  {{<figure src="/img/install-go/windows/create_folder_go_workspace.png" width="82%">}} <br>
+  {{<figure src="/img/install-go/windows/create_folder_go_workspace.png" width="92%">}} <br>
 
 * ##### Gerenciador de variável de ambiente :heavy_check_mark:
 
