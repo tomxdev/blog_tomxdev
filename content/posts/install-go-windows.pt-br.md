@@ -11,14 +11,14 @@ tags = [
 +++
 
 <!-- ![gopher](/img/gopher_home.jpg) -->
-{{<figure src="/img/gopher_home.jpg" width="82%">}}
+{{<figure src="/img/gopher_home.jpg" width="72%">}}
 
 #### :white_check_mark: Download do arquivo de instalação
 
   Acesse o [Link](https://golang.org/dl/) do site oficial para realiazar o download do arquivo de instalação para GoLang.
 
 <!-- ![gopher](/img/install-go/windows/download-go.png) -->
-  {{<figure src="/img/install-go/windows/download-go.png" width="62%">}}
+  {{<figure src="/img/install-go/windows/download-go.png" width="72%">}}
   &nbsp;
 
 
@@ -27,14 +27,18 @@ tags = [
   Após o download estar finalizado, clique duas vezes para executar o arquivo e seguir as etapas de instalação.
 
 
-  {{<figure src="/img/install-go/windows/install_next.png">}}  &nbsp;
+  {{<figure src="/img/install-go/windows/install_next.png" width="62%">}}  &nbsp;
 
   :information_source: *Tela de início para a instalação.*
 
   &nbsp;
   &nbsp; 
-  {{<figure src="/img/install-go/windows/install_accept.png">}} <br>
-  :information_source: *Clique em aceitar o contrato de licença, e em seguida next.*
+  {{
+    <figure src="/img/install-go/windows/install_accept.png" width="62%">
+    <br>
+    :information_source: *Clique em aceitar o contrato de licença, e em seguida next.
+  }} 
+  *
   &nbsp;
   &nbsp;
   {{<figure src="/img/install-go/windows/install_path.png" width="62%">}} <br>
