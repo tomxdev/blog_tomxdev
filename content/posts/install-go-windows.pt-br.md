@@ -58,7 +58,8 @@ tags = [
 
   Acesse o Executar do Windows com as teclas de atalhos ***Win + R***, e digite ***cmd*** para abrir a linha de comando. <br>
   &nbsp;
-  {{<figure src="/img/install-go/windows/win_R.png" width="52%">}}   &nbsp;
+  {{<figure src="/img/install-go/windows/win_R.png" width="52%">}}   
+  &nbsp;
 
   
     
@@ -81,7 +82,7 @@ Configure a variável de ambiente para GoLang
 
   Crie uma pasta de workspace para os projetos Go.
 
-  {{<figure src="/img/install-go/windows/create_folder_go_workspace.png" width="62%">}} <br>
+  {{<figure src="/img/install-go/windows/create_folder_go_workspace.png" width="82%">}} <br>
 
 * ##### Gerenciador de variável de ambiente :heavy_check_mark:
 
@@ -94,7 +95,7 @@ Configure a variável de ambiente para GoLang
 
   Em ***GOPATH*** altere para a pasta workspace que foi criada. :file_folder:
 
-  {{<figure src="/img/install-go/windows/go_workspace_path.png" width="62%">}} <br>  
+  {{<figure src="/img/install-go/windows/go_workspace_path.png" width="72%">}} <br>  
 
   
 * ##### Listar ENV de Go :heavy_check_mark:
@@ -102,7 +103,7 @@ Configure a variável de ambiente para GoLang
   Acesse o Executar do Windows com as teclas de atalhos Win + R, e digite cmd para abrir a linha de comando.
   Na linha de comando digite ***go env*** para listar as variáveis de Go.  
   &nbsp;
-  {{<figure src="/img/install-go/windows/go_workspace_env.png" width="62%">}} <br>
+  {{<figure src="/img/install-go/windows/go_workspace_env.png" width="82%">}} <br>
   *E se estudo estiver corretamente a variável **GOPATH** estará com o workspace que criamos.* \
   <br>
 
