@@ -32,25 +32,25 @@ tags = [
   &nbsp;
   &nbsp; 
   {{<figure src="/img/install-go/windows/install_accept.png" width="62%">}}
-  :information_source: *Clique em aceitar o contrato de licença, e em seguida next.*
+  :information_source: *Clique em aceitar o contrato de licença, e em seguida next.* \
   &nbsp;
   &nbsp;
   {{<figure src="/img/install-go/windows/install_path.png" width="62%">}}
-  *Selecione a pasta de instalação, e em seguida next.*
+  *Selecione a pasta de instalação, e em seguida next.* \
   &nbsp;
   &nbsp;
   {{<figure src="/img/install-go/windows/install_installer.png" width="62%">}} <br>
-  :information_source: *Clique em install para inicializar a instalação, e em seguida next.*
+  :information_source: *Clique em install para inicializar a instalação, e em seguida next.* \
   &nbsp;
   &nbsp;
 
   {{<figure src="/img/install-go/windows/instal_running.png" width="62%">}} <br>
-  :information_source: *Processo de instalação em execução.*
+  :information_source: *Processo de instalação em execução.*\
   &nbsp;
   &nbsp;
 
   {{<figure src="/img/install-go/windows/install_finish.png" width="62%">}} <br>
-  :information_source: *Instalação realizada com sucesso, clique em finish para encerrar.*
+  :information_source: *Instalação realizada com sucesso, clique em finish para encerrar.* \
   &nbsp;
   &nbsp;
 
@@ -68,7 +68,7 @@ tags = [
   ```
 
   {{<figure src="/content/images/install-go/windows/version.png" width="62%">}} <br>
-  Visualização da versão instalada através da linha de comando.
+  *Visualização da versão instalada através da linha de comando.* \
   &nbsp;
 
 
@@ -103,7 +103,7 @@ Configure a variável de ambiente para GoLang
   Na linha de comando digite ***go env*** para listar as variáveis de Go.  
   &nbsp;
   {{<figure src="/img/install-go/windows/go_workspace_env.png" width="62%">}} <br>
-  *E se estudo estiver corretamente a variável **GOPATH** estará com o workspace que criamos.*
+  *E se estudo estiver corretamente a variável **GOPATH** estará com o workspace que criamos.* \
   <br>
 
 Assim concluímos a instalação de Go no ambiente Windows! :muscle::dart:
