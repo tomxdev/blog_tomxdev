@@ -7,11 +7,8 @@ tags = [
     "go",
 ]
 +++
-
-<img src="/content/images/install-go/gopher_home.png" width="65%"> \
-
-### Installation
-
+![gopher](/content/images/avatar.jpg)
+<img src="/content/images/install-go/gopher_home.png" width="65%">
 
 #### :white_check_mark: Download installation file
 
