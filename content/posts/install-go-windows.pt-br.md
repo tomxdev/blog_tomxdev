@@ -16,8 +16,8 @@ tags = [
 
   Acesse o [Link](https://golang.org/dl/) do site oficial para realiazar o download do arquivo de instalação para GoLang.
 
-![gopher](/img/install-go/windows/download-go.png)
-  <!-- {{<figure src="/img/install-go/windows/download-go.png" width="50%">}} -->
+<!-- ![gopher](/img/install-go/windows/download-go.png) -->
+  {{<figure src="/img/install-go/windows/download-go.png" width="62%">}}
   &nbsp;
 
 
@@ -36,21 +36,21 @@ tags = [
   :information_source: *Clique em aceitar o contrato de licença, e em seguida next.*
   &nbsp;
   &nbsp;
-  {{<figure src="/img/install-go/windows/install_path.png" width="42%">}} <br>
+  {{<figure src="/img/install-go/windows/install_path.png" width="62%">}} <br>
   *Selecione a pasta de instalação, e em seguida next.*
   &nbsp;
   &nbsp;
-  {{<figure src="/img/install-go/windows/install_installer.png" width="42%">}} <br>
+  {{<figure src="/img/install-go/windows/install_installer.png" width="62%">}} <br>
   :information_source: *Clique em install para inicializar a instalação, e em seguida next.*
   &nbsp;
   &nbsp;
 
-  {{<figure src="/img/install-go/windows/instal_running.png" width="42%">}} <br>
+  {{<figure src="/img/install-go/windows/instal_running.png" width="62%">}} <br>
   :information_source: *Processo de instalação em execução.*
   &nbsp;
   &nbsp;
 
-  {{<figure src="/img/install-go/windows/install_finish.png" width="42%">}} <br>
+  {{<figure src="/img/install-go/windows/install_finish.png" width="62%">}} <br>
   :information_source: *Instalação realizada com sucesso, clique em finish para encerrar.*
   &nbsp;
   &nbsp;
