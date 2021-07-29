@@ -10,7 +10,8 @@ tags = [
 ]
 +++
 
-![gopher](/img/gopher_home.jpg)
+<!-- ![gopher](/img/gopher_home.jpg) -->
+{{<figure src="/img/gopher_home.jpg" width="82%">}}
 
 #### :white_check_mark: Download do arquivo de instalação
 
