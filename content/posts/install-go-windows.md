@@ -8,7 +8,8 @@ tags = [
     "go",
 ]
 +++
-{{<figure src="../content/images/install-go/gopher_home.png" width="65%">}}
+![Image from SPR Consulting](http://spr.com/wp-content/uploads/2015/08/RailsAngularBanner1.png)
+<!-- {{<figure src="../content/images/install-go/gopher_home.png" width="65%">}} -->
 
 #### :white_check_mark: Download installation file
 
