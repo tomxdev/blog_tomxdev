@@ -1,19 +1,14 @@
 +++
 author = "Tom"
 title = "Installing Go in Windows environment"
-date = "2021-29-07"
+date = "2021-07-29"
 description = "Go installation tutorial in Windows environment"
 tags = [
     "go",
 ]
 +++
 
-#
-
-## Installing GoLang no Windows 10 :computer:
-
-  <img src="/content/images/install-go/gopher_home.png" width="65%"> \
-    &nbsp;
+<img src="/content/images/install-go/gopher_home.png" width="65%"> \
 
 ### Installation
 
