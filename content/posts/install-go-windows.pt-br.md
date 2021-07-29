@@ -11,7 +11,7 @@ tags = [
 +++
 
 <!-- ![gopher](/img/gopher_home.jpg) -->
-{{<figure src="/img/install-go/gopher_banner_top.jpg">}}
+{{<figure src="/img/install-go/gopher_banner.jpg">}}
 
 #### :white_check_mark: Download do arquivo de instalação
 
