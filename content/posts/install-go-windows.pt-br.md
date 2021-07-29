@@ -58,7 +58,7 @@ tags = [
 
   Acesse o Executar do Windows com as teclas de atalhos ***Win + R***, e digite ***cmd*** para abrir a linha de comando. <br>
   &nbsp;
-  {{<figure src="/img/install-go/windows/win_R.png" width="62%">}}   &nbsp;
+  {{<figure src="/img/install-go/windows/win_R.png" width="52%">}}   &nbsp;
 
   
     
