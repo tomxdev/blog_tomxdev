@@ -66,7 +66,7 @@ tags = [
     $ go version
   ```
 
-  {{<figure src="/img/install-go/windows/version.png" width="62%">}}
+  {{<figure src="/img/install-go/windows/version.png">}}
   *Visualização da versão instalada através da linha de comando.* \
   &nbsp;
 
