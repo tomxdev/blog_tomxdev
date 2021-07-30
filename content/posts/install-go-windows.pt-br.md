@@ -66,7 +66,7 @@ tags = [
     $ go version
   ```
 
-  {{<figure src="/inmg/install-go/windows/version.png" width="62%">}} <br>
+  {{<figure src="/img/install-go/windows/version.png" width="62%">}}
   *Visualização da versão instalada através da linha de comando.* \
   &nbsp;
 
@@ -100,9 +100,8 @@ Configure a variável de ambiente para GoLang
 
   Acesse o Executar do Windows com as teclas de atalhos Win + R, e digite cmd para abrir a linha de comando.
   Na linha de comando digite ***go env*** para listar as variáveis de Go.  
-  &nbsp;
   {{<figure src="/img/install-go/windows/go_workspace_env.png">}} <br>
-  *E se estudo estiver corretamente a variável **GOPATH** estará com o workspace que criamos.* \
+  *E se estudo estiver corretamente configurado a variável **GOPATH** estará setado para o workspace.* \
   <br>
 
 Assim concluímos a instalação de Go no ambiente Windows! :muscle::dart:
