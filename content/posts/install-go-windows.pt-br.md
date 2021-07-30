@@ -1,6 +1,6 @@
 +++
 author = "Tom"
-title = "Instalando Go no Windows"
+title = "Instalando Go no Windows 10"
 date = "2021-07-29"
 description = "Tutorial de instalação de Go no ambiente Windows"
 images = ["gopher_home.jpg",]
@@ -10,14 +10,12 @@ tags = [
 ]
 +++
 
-<!-- ![gopher](/img/gopher_home.jpg) -->
 {{<figure src="/img/install-go/gopher_banner.jpg">}}
 
 #### :white_check_mark: Download do arquivo de instalação
 
-  Acesse o [Link](https://golang.org/dl/) do site oficial para realiazar o download do arquivo de instalação para GoLang.
+  Acesse o [Link](https://golang.org/dl/) do site oficial para realizar o download do arquivo de instalação para GoLang.
 
-<!-- ![gopher](/img/install-go/windows/download-go.png) -->
   {{<figure src="/img/install-go/windows/download-go.png" width="72%">}}
   &nbsp;
 
