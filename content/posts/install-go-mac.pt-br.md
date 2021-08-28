@@ -22,7 +22,7 @@ Go é uma linguagem de programação de código aberto desenvolvida por uma equi
 
   Iremos realizar todas os processos de instalação de Go em 4 passos.
 
-#### :white_check_mark: Baixando Go
+#### :white_check_mark: Step 1 - Baixando Go
 
 Para baixar a versão mais recente do Go, visite https://golang.org/dl/. Você verá o link de download do Apple macOS. A versão atual do Go 1.17 é compatível com macOS 10.10 ou versões posteriores apenas com suporte de 64 bits.
 
@@ -35,7 +35,7 @@ Como alternativa, você pode baixar o Go 1.17 usando a linha de comando curl.
   $ curl -o golang.pkg https://dl.google.com/go/go1.16.4.darwin-amd64.pkg 
 ```
 
-#### :white_check_mark: Instalar Go no MacOS
+#### :white_check_mark: Step 2 - Instalar Go no MacOS
 
 Você baixou o pacote Go em seu sistema macOS. Para instalá-lo, basta clicar duas vezes no arquivo baixado para iniciar o assistente de instalação.
 
@@ -51,7 +51,7 @@ Siga o assistente de instalação e conclua o processo de instalação.
   &nbsp;
 
 
-#### :white_check_mark: Configurar Workspace para Go
+#### :white_check_mark: Step 3 - Configurar Workspace para Go
 Edite o arquivo ~ / .bash_profile ou ~ / .profile (ou seu equivalente) para definir as variáveis de ambiente. Normalmente você precisa definir 3 variáveis de ambiente como **GOROOT**, **GOPATH** e **PATH**.
 
 **GOROOT** is the location where Go package is installed on your system.
@@ -71,7 +71,7 @@ Agora defina a variável **PATH** para acessar todo o sistema binário.
 $ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH 
 ```
 
-#### Checar a versão de Go instalada :trophy:
+#### :white_check_mark: Step 4 - Checar a versão de Go instalada :trophy:
 
 Finalmente, você instalou e configurou com sucesso o idioma em seu sistema. Primeiro, use o seguinte comando para verificar a versão Go instalada.
     

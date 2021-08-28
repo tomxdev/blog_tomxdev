@@ -30,7 +30,7 @@ To download the latest Go release visit https://golang.org/dl/. You will see the
   {{<figure src="/img/install-go/windows/download-go.png" width="72%">}}
   &nbsp;
 
-Como alternativa, você pode baixar o Go 1.17 usando a linha de comando curl.
+Alternatively, you can download Go 1.16.4 using the curl command line.
 ``` bash
   $ curl -o golang.pkg https://dl.google.com/go/go1.16.4.darwin-amd64.pkg 
 ```
@@ -71,7 +71,7 @@ Now set the **PATH** variable to access go binary system wide.
 $ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH 
 ```
 
-#### Step 4 - Test Go Version :trophy:
+#### :white_check_mark: Step 4 - Test Go Version :trophy:
 
 Finally, you have successfully installed and configured go language on your system. First, use the following command to check the installed Go version.
     
